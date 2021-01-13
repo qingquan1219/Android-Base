@@ -102,6 +102,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case 0:
                 mHomeRb.setChecked(true);
                 break;
+
             case 1:
                 mCollectionRb.setChecked(true);
             case 2:
